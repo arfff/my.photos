@@ -1,0 +1,71 @@
+{
+  "title": "Octobre 2017",
+  "subtitle": "Vogue des marrons",
+  "date": "01/01/2018",
+  "cover": "/static/welcome_images/1.jpg",
+  "photos": [
+    {
+      "src": "IMG_20171014_171542_BURST009.jpg",
+      "thumb_src": "thumb/t_IMG_20171014_171542_BURST009.jpg",
+      "text": " (14/10/2017 17:15)",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "src": "IMG_20171014_171759_BURST002.jpg",
+      "thumb_src": "thumb/t_IMG_20171014_171759_BURST002.jpg",
+      "text": "Apprentissage de la courtoisie au volant ;-) (14/10/2017 17:17)",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "src": "IMG_20171021_093537_BURST002.jpg",
+      "thumb_src": "thumb/t_IMG_20171021_093537_BURST002.jpg",
+      "text": " (21/10/2017 09:35)",
+      "width": 191,
+      "height": 256
+    },
+    {
+      "src": "IMG_20171021_133128_BURST002.jpg",
+      "thumb_src": "thumb/t_IMG_20171021_133128_BURST002.jpg",
+      "text": " (21/10/2017 13:31)",
+      "width": 256,
+      "height": 192
+    },
+    {
+      "src": "IMG_9757.jpg",
+      "thumb_src": "thumb/t_IMG_9757.jpg",
+      "text": " (07/10/2017 08:12)",
+      "width": 170,
+      "height": 256
+    },
+    {
+      "src": "IMG_9767.jpg",
+      "thumb_src": "thumb/t_IMG_9767.jpg",
+      "text": " (15/10/2017 16:58)",
+      "width": 170,
+      "height": 256
+    },
+    {
+      "src": "IMG_9778.jpg",
+      "thumb_src": "thumb/t_IMG_9778.jpg",
+      "text": " (19/10/2017 20:03)",
+      "width": 256,
+      "height": 170
+    },
+    {
+      "src": "IMG_9780.jpg",
+      "thumb_src": "thumb/t_IMG_9780.jpg",
+      "text": " (19/10/2017 20:04)",
+      "width": 170,
+      "height": 256
+    },
+    {
+      "src": "IMG_9784.jpg",
+      "thumb_src": "thumb/t_IMG_9784.jpg",
+      "text": "Chou à la crème, miam ... (21/10/2017 13:49)",
+      "width": 170,
+      "height": 256
+    }
+  ]
+}
